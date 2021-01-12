@@ -1,2 +1,3 @@
 # CSCI220-01
 CSCI220-01 WEB PROGRAMMING (Spring 2021)
+Dr. Isaac Hopper
